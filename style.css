@@ -31,6 +31,7 @@ html {
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.8)
 }
 
+
 .container__article--left {
     background-image: url(./img/paisaje.jpg);
     width: 50%;
@@ -41,6 +42,7 @@ html {
     align-items: center;
 
 }
+
 
 .hello {
     font-size: 6rem;
@@ -53,6 +55,7 @@ html {
 
 }
 
+
 .container__article--left p {
     text-align: left;
     margin-top: 2rem;
@@ -64,6 +67,7 @@ html {
     margin-top: 1.5rem;
     height: .6rem;
 }
+
 
 .container__article--right {
     background-color: white;
@@ -119,6 +123,7 @@ html {
     color: black;
     pointer-events: none;
 }
+
 
 .container__article--right p {
     font-size: 1.5rem;
